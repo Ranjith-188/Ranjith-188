@@ -1,4 +1,4 @@
-## 👋 hey, I'm Ranjith — CS student, permanently stuck between
+👋 hey, I'm Ranjith — CS student, permanently stuck between
 ✨ "this should work" and 💀 "why doesn't this work"
 
 🧠 into AI/ML, full-stack dev, and building things that actually matter
