@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 hey, I'm Ranjith — CS student, permanently stuck between
+✨ "this should work" and 💀 "why doesn't this work"
+
+🧠 into AI/ML, full-stack dev, and building things that actually matter
+⚡ currently vibecoding my way through hackathons, coursework, and
+   random 2am project ideas that seemed genius at the time
+🐛 professional bug creator, occasional bug fixer
+📚 stackoverflow historian by night
+
+🚀 not trying to change the world, just trying to ship something
+   cool before the semester ends
 
 <!--
 **Ranjith-188/Ranjith-188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
